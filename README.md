@@ -26,10 +26,10 @@ I develop optimization solvers using heuristics, metaheuristics, and exact metho
 * 🧠  I'm currently learning Advanced combinatorial optimization, multi‑objective methods, and high‑performance C++ (SIMD kernels, parallel search).
 <br>
 
-* 👥   I'm looking to collaborate on Optimization solvers, HPC‑accelerated algorithms, and research‑oriented metaheuristics.
+* 👥   I'm ooking to collaborate on optimization solvers, accelerated algorithms, and research‑oriented metaheuristics.
 <br>
 
-* 🚀   I'm exploring new ways to combine heuristics, metaheuristics, and HPC to push solver performance further.
+* 🚀   I'm exploring new ways to combine heuristics and metaheuristics with low‑level performance engineering to push solver performance further.
 
 
 <br><br>
