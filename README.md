@@ -4,6 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Operations Research & HPC Engineer
 ----------------------------------
 
+<p align="center">
+  <img src="img/optimization.png" alt="Banner" width="30%">
+</p>
+
+
 I develop optimization solvers using heuristics, metaheuristics, and exact methods, combined with HPC techniques like SIMD vectorization and multithreaded search to handle large combinatorial problems (notable projects: Generalized Assignment, Set Packing, PathFinding).
 
 * 🌍  I'm based in Nantes, France
