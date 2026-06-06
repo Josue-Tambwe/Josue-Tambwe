@@ -14,7 +14,7 @@ Operations Research & HPC Engineer
 
 I develop optimization solvers using heuristics, metaheuristics, and exact methods, combined with HPC techniques like SIMD vectorization and multithreaded search to handle large combinatorial problems (notable projects: Generalized Assignment, Set Packing, Path Finding).
 
-<br><br>
+<br>
 
 
 * 🌍  I'm based in Nantes, France
