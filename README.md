@@ -37,10 +37,11 @@ I develop optimization solvers using heuristics, metaheuristics, and exact metho
  
 <p align="center">
 
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-original.svg" 
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg"
        alt="C++" title="C++" width="50" height="50" style="margin-right: 80px;" />
 </a>
+
 
 
   <a href="https://julialang.org/" target="_blank" rel="noreferrer">
