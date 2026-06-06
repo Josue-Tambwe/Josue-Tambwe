@@ -77,7 +77,7 @@ I develop optimization solvers using heuristics, metaheuristics, and exact metho
 </p>
 
 
-<br><br>
+<br>
 
 
 ### Socials
