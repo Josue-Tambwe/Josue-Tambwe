@@ -77,14 +77,10 @@ I develop optimization solvers using heuristics, metaheuristics, and exact metho
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Josue-Tambwe" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="50" height="50" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/josué-tambwe-6390a2259" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="50" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Badges
 
-<br><br>
- 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Josue-Tambwe"><img src="https://github-readme-stats.vercel.app/api?username=Josue-Tambwe&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=ffffff&hide_border=true&show_icons=true" alt="Josue-Tambwe's GitHub stats" /></a>
+### 💻 Top Languages
 
-<a href="http://www.github.com/Josue-Tambwe"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Josue-Tambwe&stroke=ffffff&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/Josue-Tambwe" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josue-Tambwe&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josue-Tambwe&layout=compact&theme=vue-dark&hide_border=true" />
+</p>
