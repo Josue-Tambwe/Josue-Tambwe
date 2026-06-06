@@ -34,13 +34,17 @@ I develop optimization solvers using heuristics, metaheuristics, and exact metho
 
 <br><br>
 
- ### 💻 Skills & Languages 
  
 <p align="center">
 
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="50" height="50" style="margin-right: 80px;" />
   </a>
+
+  <a href="https://julialang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/JuliaLang/julia-logo-graphics/master/images/julia-logo-color.svg" alt="Julia"       title="Julia" width="50" height="50" style="margin-right: 80px;" />
+  </a>
+
 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="50" height="50" style="margin-right: 80px;" />
@@ -82,5 +86,5 @@ I develop optimization solvers using heuristics, metaheuristics, and exact metho
 
 <br><br>
 
-
+### 💻 Skills & Languages 
 
