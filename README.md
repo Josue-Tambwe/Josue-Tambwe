@@ -6,7 +6,7 @@ Operations Research & HPC Engineer
 
 
 <p align="center">
-  <img src="img/optimization.png" alt="Banner" style="width:100%; max-height:150px; object-fit:cover;">
+  <img src="img/optimization.png" alt="Banner" style="width:100%; max-height:50px; object-fit:cover;">
 </p>
 
 
