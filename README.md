@@ -29,7 +29,8 @@ I develop optimization solvers using heuristics, metaheuristics, and exact metho
 * 👥  I'm looking to collaborate on Optimization solvers, HPC‑accelerated algorithms, and research‑oriented metaheuristics.
 <br>
 
-* 💬  Ask me about Exploring new ways to combine heuristics, metaheuristics, and HPC to push solver performance further.
+* 🚀  I'm exploring new ways to combine heuristics, metaheuristics, and HPC to push solver performance further.
+
 
 <br><br>
  
