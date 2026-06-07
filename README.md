@@ -34,50 +34,55 @@ I develop optimization solvers using heuristics, metaheuristics, and exact metho
 
 <br><br>
 
- 
-<p align="center">
+ <p align="center">
 
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg"
-       alt="C++" title="C++" width="50" height="50" style="margin-right: 80px;" />
-</a>
-
-
-
-  <a href="https://julialang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/JuliaLang/julia-logo-graphics/master/images/julia-logo-color.svg" alt="Julia"       title="Julia" width="50" height="50" style="margin-right: 80px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"
+         alt="C++" title="C++" width="50" height="50" style="margin-right: 80px;" />
   </a>
 
+  <a href="https://julialang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/JuliaLang/julia-logo-graphics/master/images/julia-logo-color.svg"
+         alt="Julia" title="Julia" width="50" height="50" style="margin-right: 80px;" />
+  </a>
 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="50" height="50" style="margin-right: 80px;" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
+         alt="Git" title="Git" width="50" height="50" style="margin-right: 80px;" />
   </a>
 
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="50" height="50" style="margin-right: 80px;" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"
+         alt="Python" title="Python" width="50" height="50" style="margin-right: 80px;" />
   </a>
 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="50" height="50" style="margin-right: 80px;" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg"
+         alt="GNU Bash" title="GNU Bash" width="50" height="50" style="margin-right: 80px;" />
   </a>
 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="50" height="50" style="margin-right: 80px;" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg"
+         alt="VS Code" title="VS Code" width="50" height="50" style="margin-right: 80px;" />
   </a>
 
   <a href="https://www.linux.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="50" height="50" style="margin-right: 80px;" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg"
+         alt="Linux" title="Linux" width="50" height="50" style="margin-right: 80px;" />
   </a>
 
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="50" height="50" style="margin-right: 80px;" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg"
+         alt="Ubuntu" title="Ubuntu" width="50" height="50" style="margin-right: 80px;" />
   </a>
 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="50" height="50" style="margin-right: 80px;" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg"
+         alt="Docker" title="Docker" width="50" height="50" style="margin-right: 80px;" />
   </a>
 
 </p>
+
 
 
 <br>
