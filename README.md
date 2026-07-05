@@ -12,7 +12,7 @@ Operations Research & HPC Engineer
 
 <br>
 
-I develop optimization solvers using heuristics, metaheuristics, and exact methods, combined with HPC techniques like SIMD vectorization and multithreaded search to handle large combinatorial problems (notable projects: Generalized Assignment, Set Packing, Path Finding).
+I develop optimization solvers using heuristics, metaheuristics and exact methods, combined with HPC techniques like SIMD vectorization and multithreaded search to handle large combinatorial problems (notable projects: Generalized Assignment, Set Packing, Path Finding).
 
 <br>
 
@@ -23,10 +23,10 @@ I develop optimization solvers using heuristics, metaheuristics, and exact metho
 * ✉️   You can contact me at [tambwejosue1@gmail.com](mailto:tambwejosue1@gmail.com)
 <br>
 
-* 🧠  I'm currently learning Advanced combinatorial optimization, multi‑objective methods, and high‑performance C++ (SIMD kernels, parallel search).
+* 🧠  I'm currently learning Advanced combinatorial optimization, multi‑objective methods and high‑performance C++ (SIMD kernels, parallel search).
 <br>
 
-* 👥   I'm looking to collaborate on optimization solvers, accelerated algorithms, and research‑oriented metaheuristics.
+* 👥   I'm looking to collaborate on optimization solvers, accelerated algorithms and research‑oriented metaheuristics.
 <br>
 
 * 🚀   I'm exploring new ways to combine heuristics and metaheuristics with low‑level performance engineering to push solver performance further.
