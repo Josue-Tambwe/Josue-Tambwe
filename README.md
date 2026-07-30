@@ -38,47 +38,47 @@ I develop optimization solvers using heuristics, metaheuristics and exact method
 
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"
-         alt="C++" title="C++" width="50" height="50" style="margin-right: 80px;" />
+         alt="C++" title="C++" width="40" height="5=40" style="margin-right: 80px;" />
   </a>
 
   <a href="https://julialang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/JuliaLang/julia-logo-graphics/master/images/julia-logo-color.svg"
-         alt="Julia" title="Julia" width="50" height="50" style="margin-right: 80px;" />
+         alt="Julia" title="Julia" width="40" height="40" style="margin-right: 80px;" />
   </a>
 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
-         alt="Git" title="Git" width="50" height="50" style="margin-right: 80px;" />
+         alt="Git" title="Git" width="40" height="40" style="margin-right: 80px;" />
   </a>
 
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"
-         alt="Python" title="Python" width="50" height="50" style="margin-right: 80px;" />
+         alt="Python" title="Python" width="40" height="40" style="margin-right: 80px;" />
   </a>
 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg"
-         alt="GNU Bash" title="GNU Bash" width="50" height="50" style="margin-right: 80px;" />
+         alt="GNU Bash" title="GNU Bash" width="40" height="40" style="margin-right: 80px;" />
   </a>
 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg"
-         alt="VS Code" title="VS Code" width="50" height="50" style="margin-right: 80px;" />
+         alt="VS Code" title="VS Code" width="40" height="40" style="margin-right: 80px;" />
   </a>
 
   <a href="https://www.linux.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg"
-         alt="Linux" title="Linux" width="50" height="50" style="margin-right: 80px;" />
+         alt="Linux" title="Linux" width="40" height="40" style="margin-right: 80px;" />
   </a>
 
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg"
-         alt="Ubuntu" title="Ubuntu" width="50" height="50" style="margin-right: 80px;" />
+         alt="Ubuntu" title="Ubuntu" width="40" height="40" style="margin-right: 80px;" />
   </a>
 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg"
-         alt="Docker" title="Docker" width="50" height="50" style="margin-right: 80px;" />
+         alt="Docker" title="Docker" width="40" height="40" style="margin-right: 80px;" />
   </a>
 
 </p>
@@ -90,7 +90,7 @@ I develop optimization solvers using heuristics, metaheuristics and exact method
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Josue-Tambwe" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="50" height="50" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/josué-tambwe-6390a2259" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="50" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/Josue-Tambwe" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/josué-tambwe-6390a2259" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 
 <br>
 
